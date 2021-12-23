@@ -1,0 +1,99 @@
+body{
+	background-color: #FCFCFC ;
+	color: #3357FF ;
+
+	font-family: Courier New, monospace;
+}
+
+.box-1{
+	color: #FCFCFC;
+	border-radius: 25px;
+  	background-color: F9C219;
+  	padding: 30px;
+  	width: 1200px;
+  	height: 150px;
+
+}
+
+.bigtext{
+	font-family: font-family: 'Rajdhani', sans-serif;
+	font-size: 50px;
+}
+
+.slogan{
+	font-size: 20px;
+	letter-spacing: -2px;
+}
+
+.nav{
+	font-weight: bold;
+	color: black;
+	text-align: left;
+	height: 70px;
+	text-indent: 30px;
+	letter-spacing: 2px;
+
+}
+
+.box-2{
+	padding-left: 5px;
+	background-color: #2E56FE ;
+	color: #1A1B1E ;
+	font-weight: bold;
+	height: 200;
+	line-height: 80%;
+
+}
+
+.main{
+	padding-top: 20px;
+
+	background-color: #DB6407 ;
+	color: #FCFCFC;
+	text-transform: uppercase;
+	text-align: left;
+	font-size: 35px;
+	line-height: -2;
+
+
+
+}
+
+
+
+.subtext{
+	font-style: italic;
+	color: #010101;
+}
+
+.text-1{
+	color: #010101;
+	font-weight: bold;
+	line-height:100%;
+
+}
+
+.text-2{
+	color: #010101;
+	font-weight: bold;
+	line-height:100%;
+}
+
+.box-3{
+	padding-left: 5px;
+	background-color: #11EADB ;
+	color: #3357FF;
+	height: 120px;
+}
+
+.box-4{
+	border-right: 100px;
+	background-color: #98A1A0;
+	color: #010101;
+	height:70px;
+	text-align: center;
+	font-size: medium;
+	font-weight: bold;
+	text-indent: 400px;
+	line-height: 5;
+}

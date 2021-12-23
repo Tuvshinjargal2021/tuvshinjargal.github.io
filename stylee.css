@@ -1,0 +1,100 @@
+body{
+	background-color: #EAEAEA;
+	color: #A6A6A6 ;
+}
+.bg-image{
+	background-image:url(https://wallpaperaccess.com/full/4394883.jpg) ;
+	height: 200px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	width: 1250px;
+
+}
+.big-text{
+	font-family: fantasy;
+	font-size: 30px;
+	color: #F5F5F5;
+	text-align: center;
+
+}
+.text1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: #CCCCCC;
+}
+.button{
+	text-align: center;
+	padding: 15px;
+	background-color: #B10F98;
+	color:#F5F5F5 ;
+
+}
+
+.asuult{
+	font-family: "Times New Roman";
+	font-size: 30px;
+	color: #150E14 ;
+	text-align: center;
+}
+
+.text3{
+	font-family: "Times New Roman";
+	font-size: 17px;
+	text-align: justify;
+
+}
+
+.bichver{
+	font-family: "Times New Roman";
+	font-size: 17px;
+	text-align: center;
+}
+.box-1{
+	justify-content: space-between;
+	border-spacing: 100%;
+}
+.rounded{
+	border-radius: 50%;
+	
+	
+	
+
+}
+
+
+.rounded-2{
+	border-radius: 50%;
+	text-align: center;
+	
+
+	
+
+	
+	
+}
+
+.rounded-3{
+	border-radius: 50%;
+	text-align: right;
+	
+	
+
+	
+
+}
+.footer{
+
+	border-right: 100px;
+	background-color: #7F7F7F;
+	color: #B10F98;
+	height:70px;
+	text-align: right;
+	font-size: 15px;
+	font-family: "lucida console";
+	text-indent: 200px;
+	line-height: 3;
+}
+
